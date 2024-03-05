@@ -1,6 +1,6 @@
-@react_js.Server_HostAddress = http://localhost:5129
+@react_js.Server_HostAddress = http://localhost:5173
 
-GET {{react_js.Server_HostAddress}}/weatherforecast/
+GET {{react_js.Server_HostAddress}}/weather/
 Accept: application/json
 
 ###

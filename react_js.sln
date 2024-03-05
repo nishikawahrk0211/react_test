@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.9.34622.214
+VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "react_js.Server", "react_js.Server\react_js.Server.csproj", "{192408AD-89C2-4084-ACFF-6FF29C99B743}"
-EndProject
-Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "react_js.client", "react_js.client\react_js.client.esproj", "{623EEA32-A18C-43B2-BAE6-C9009081FAE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "react_js.Server", "react_js.Server\react_js.Server.csproj", "{27E2B7D8-A368-4B49-99E2-68840261BA0E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,21 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{192408AD-89C2-4084-ACFF-6FF29C99B743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{192408AD-89C2-4084-ACFF-6FF29C99B743}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{192408AD-89C2-4084-ACFF-6FF29C99B743}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{192408AD-89C2-4084-ACFF-6FF29C99B743}.Release|Any CPU.Build.0 = Release|Any CPU
-		{623EEA32-A18C-43B2-BAE6-C9009081FAE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{623EEA32-A18C-43B2-BAE6-C9009081FAE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{623EEA32-A18C-43B2-BAE6-C9009081FAE7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{623EEA32-A18C-43B2-BAE6-C9009081FAE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{623EEA32-A18C-43B2-BAE6-C9009081FAE7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{623EEA32-A18C-43B2-BAE6-C9009081FAE7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{27E2B7D8-A368-4B49-99E2-68840261BA0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E2B7D8-A368-4B49-99E2-68840261BA0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E2B7D8-A368-4B49-99E2-68840261BA0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E2B7D8-A368-4B49-99E2-68840261BA0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {968C2FE3-F3CB-4E70-9E95-AF973D7F6881}
+		SolutionGuid = {57F4789C-93F9-4B4B-A82A-31005AAD8149}
 	EndGlobalSection
 EndGlobal

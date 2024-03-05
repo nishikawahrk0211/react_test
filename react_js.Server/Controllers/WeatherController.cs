@@ -16,33 +16,36 @@ namespace react_js.Server.Controllers
             return PostAPI().ToArray();
         }
 
-        public List<WeatherContext> PostAPI()
+        private List<WeatherContext> PostAPI()
         {
             var service = new WeatherService();
             var response = service.Post();
-
-            var jsonRoot = JsonDocument.Parse(response).RootElement;
-            var current = jsonRoot.GetProperty("current.pressure").GetString();
-            var hourly = jsonRoot.GetProperty("hourly.pressure").GetString();
-            var daily = jsonRoot.GetProperty("daily.pressure").GetString();
-
-
-
             var list = new List<WeatherContext>();
 
-            if(current == null ||  hourly == null || daily == null)
+            var json = JsonSerializer.Deserialize<OpenWeatherContext>(response);
+
+            if (json == null)
             {
                 return list;
             }
 
-            list.Add(new WeatherContext(int.Parse(current ?? "0")));
+            var current = json.current;
+            var hourly = json.hourly;
+            var daily = json.daily;
 
-            foreach (var item in hourly)
+            if (current == null || hourly == null || daily == null)
             {
-
+                return list;
             }
 
-            return new List<WeatherContext>();
+            list.Add(new WeatherContext(current.pressure));
+
+            // foreach (var item in hourly)
+            // {
+
+            // }
+
+            return list;
         }
     }
 }

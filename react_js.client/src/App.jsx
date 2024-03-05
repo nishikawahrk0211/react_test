@@ -14,7 +14,7 @@ function App() {
     
     async function populateWeatherData() {
         const response = await fetch('weather');
-        const data = await response.text;
+        const data = await response;
         setForecasts(data);
     }
 }
