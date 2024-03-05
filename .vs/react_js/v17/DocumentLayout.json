@@ -1,19 +1,179 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\work\\react_js\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{192408AD-89C2-4084-ACFF-6FF29C99B743}|react_js.Server\\react_js.Server.csproj|c:\\work\\react_js\\react_js.server\\service\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192408AD-89C2-4084-ACFF-6FF29C99B743}|react_js.Server\\react_js.Server.csproj|solutionrelative:react_js.server\\service\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192408AD-89C2-4084-ACFF-6FF29C99B743}|react_js.Server\\react_js.Server.csproj|c:\\work\\react_js\\react_js.server\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192408AD-89C2-4084-ACFF-6FF29C99B743}|react_js.Server\\react_js.Server.csproj|solutionrelative:react_js.server\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192408AD-89C2-4084-ACFF-6FF29C99B743}|react_js.Server\\react_js.Server.csproj|c:\\work\\react_js\\react_js.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192408AD-89C2-4084-ACFF-6FF29C99B743}|react_js.Server\\react_js.Server.csproj|solutionrelative:react_js.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623EEA32-A18C-43B2-BAE6-C9009081FAE7}|react_js.client\\react_js.client.esproj|c:\\work\\react_js\\react_js.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{623EEA32-A18C-43B2-BAE6-C9009081FAE7}|react_js.client\\react_js.client.esproj|solutionrelative:react_js.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623EEA32-A18C-43B2-BAE6-C9009081FAE7}|react_js.client\\react_js.client.esproj|c:\\work\\react_js\\react_js.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{623EEA32-A18C-43B2-BAE6-C9009081FAE7}|react_js.client\\react_js.client.esproj|solutionrelative:react_js.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623EEA32-A18C-43B2-BAE6-C9009081FAE7}|react_js.client\\react_js.client.esproj|c:\\work\\react_js\\react_js.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{623EEA32-A18C-43B2-BAE6-C9009081FAE7}|react_js.client\\react_js.client.esproj|solutionrelative:react_js.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623EEA32-A18C-43B2-BAE6-C9009081FAE7}|react_js.client\\react_js.client.esproj|c:\\work\\react_js\\react_js.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{623EEA32-A18C-43B2-BAE6-C9009081FAE7}|react_js.client\\react_js.client.esproj|solutionrelative:react_js.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192408AD-89C2-4084-ACFF-6FF29C99B743}|react_js.Server\\react_js.Server.csproj|c:\\work\\react_js\\react_js.server\\apiutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192408AD-89C2-4084-ACFF-6FF29C99B743}|react_js.Server\\react_js.Server.csproj|solutionrelative:react_js.server\\apiutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192408AD-89C2-4084-ACFF-6FF29C99B743}|react_js.Server\\react_js.Server.csproj|c:\\work\\react_js\\react_js.server\\context\\weathercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192408AD-89C2-4084-ACFF-6FF29C99B743}|react_js.Server\\react_js.Server.csproj|solutionrelative:react_js.server\\context\\weathercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 212,
-          "SelectedChildIndex": -1,
+          "DockedWidth": 226,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\work\\react_js\\react_js.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "react_js.client\\src\\main.jsx",
+              "ToolTip": "C:\\work\\react_js\\react_js.client\\src\\main.jsx",
+              "RelativeToolTip": "react_js.client\\src\\main.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-03-05T09:24:23.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\work\\react_js\\react_js.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "react_js.client\\src\\App.jsx",
+              "ToolTip": "C:\\work\\react_js\\react_js.client\\src\\App.jsx",
+              "RelativeToolTip": "react_js.client\\src\\App.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-03-05T09:17:28.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "C:\\work\\react_js\\react_js.Server\\Controllers\\WeatherController.cs",
+              "RelativeDocumentMoniker": "react_js.Server\\Controllers\\WeatherController.cs",
+              "ToolTip": "C:\\work\\react_js\\react_js.Server\\Controllers\\WeatherController.cs",
+              "RelativeToolTip": "react_js.Server\\Controllers\\WeatherController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T06:08:00.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\work\\react_js\\react_js.client\\src\\index.css",
+              "RelativeDocumentMoniker": "react_js.client\\src\\index.css",
+              "ToolTip": "C:\\work\\react_js\\react_js.client\\src\\index.css",
+              "RelativeToolTip": "react_js.client\\src\\index.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-05T09:17:14.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\work\\react_js\\react_js.client\\index.html",
+              "RelativeDocumentMoniker": "react_js.client\\index.html",
+              "ToolTip": "C:\\work\\react_js\\react_js.client\\index.html",
+              "RelativeToolTip": "react_js.client\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-05T05:52:16.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "APIUtility.cs",
+              "DocumentMoniker": "C:\\work\\react_js\\react_js.Server\\APIUtility.cs",
+              "RelativeDocumentMoniker": "react_js.Server\\APIUtility.cs",
+              "ToolTip": "C:\\work\\react_js\\react_js.Server\\APIUtility.cs",
+              "RelativeToolTip": "react_js.Server\\APIUtility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T06:55:16.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\work\\react_js\\react_js.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "react_js.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\work\\react_js\\react_js.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "react_js.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T06:06:56.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherContext.cs",
+              "DocumentMoniker": "C:\\work\\react_js\\react_js.Server\\Context\\WeatherContext.cs",
+              "RelativeDocumentMoniker": "react_js.Server\\Context\\WeatherContext.cs",
+              "ToolTip": "C:\\work\\react_js\\react_js.Server\\Context\\WeatherContext.cs",
+              "RelativeToolTip": "react_js.Server\\Context\\WeatherContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T06:19:16.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\work\\react_js\\react_js.Server\\Service\\WeatherService.cs",
+              "RelativeDocumentMoniker": "react_js.Server\\Service\\WeatherService.cs",
+              "ToolTip": "C:\\work\\react_js\\react_js.Server\\Service\\WeatherService.cs",
+              "RelativeToolTip": "react_js.Server\\Service\\WeatherService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwCQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T06:18:02.093Z",
+              "EditorCaption": ""
             }
           ]
         }
