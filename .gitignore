@@ -1,5 +1,6 @@
 .env
 package-lock.json
 react_js.Server/bin/Debug
-.vscode/setting.json
+.vscode/settings.json
 .vscode/launch.json
+react_js.Server/obj/Debug/net8.0/*
