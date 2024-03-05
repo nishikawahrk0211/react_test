@@ -4,3 +4,4 @@ react_js.Server/bin/Debug
 .vscode/settings.json
 .vscode/launch.json
 react_js.Server/obj/Debug/net8.0/*
+react_js.Server/obj/
